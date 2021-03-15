@@ -3,6 +3,10 @@
 >数据结构与算法
 >>[B树与B+树](https://www.cnblogs.com/vincently/p/4526560.html "悬停显示")
 
+>计算机网络
+>>[TCP的三次握手与四次挥手理解及面试题（很全面）](https://blog.csdn.net/qq_38950316/article/details/81087809 "悬停显示")
+>>[TCP包的seq和ack号计算方法](https://blog.csdn.net/huaishu/article/details/93739446 "悬停显示")
+
 >CLR语言设计思想
 >>[浅谈 .NET 中的对象引用、非托管指针和托管指针](https://www.cnblogs.com/blurhkh/p/10357576.html "悬停显示")
 
