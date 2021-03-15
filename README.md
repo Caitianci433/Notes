@@ -5,7 +5,7 @@
 
 >计算机网络
 >>[TCP的三次握手与四次挥手理解及面试题（很全面）](https://blog.csdn.net/qq_38950316/article/details/81087809 "悬停显示")  
->>[TCP包的seq和ack号计算方法](https://blog.csdn.net/huaishu/article/details/93739446 "悬停显示")
+>>[TCP包的seq和ack号计算方法](https://blog.csdn.net/huaishu/article/details/93739446 "悬停显示")  
 >>[TCP如何保证传输可靠性](https://blog.csdn.net/cbjcry/article/details/84925028 "悬停显示")  
 >>[网络基础：TCP协议-如何保证传输可靠性](https://blog.csdn.net/liuchenxia8/article/details/80428157 "悬停显示")  
 
