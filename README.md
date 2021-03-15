@@ -17,7 +17,7 @@
 
 CLR语言设计思想
 * [浅谈 .NET 中的对象引用、非托管指针和托管指针](https://www.cnblogs.com/blurhkh/p/10357576.html "悬停显示")  
-
+* [.net 进阶](https://www.bilibili.com/video/BV1zX4y1N7SQ "悬停显示") 
 ---
 个人修养  
 ---
