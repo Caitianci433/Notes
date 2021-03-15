@@ -26,5 +26,13 @@ CLR语言设计思想
 * [《Effective C#》提炼总结提高Unity中C#代码质量的21条准则](https://github.com/XINCGer/Unity3DTraining/tree/master/Effective%20C%23/%E3%80%8AEffective%20C%23%E3%80%8B%E6%8F%90%E7%82%BC%E6%80%BB%E7%BB%93%E6%8F%90%E9%AB%98Unity%E4%B8%ADC%23%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%9A%8421%E6%9D%A1%E5%87%86%E5%88%99 "悬停显示")
 
 文档编写
-* [README](https://github.com/OrangecatQAQ/README "悬停显示")
+* [README](https://github.com/OrangecatQAQ/README "悬停显示")  
 
+---
+寻找技术偶像
+---
+* [刘超·技术人，千万别把 1 年经验用 10 年](https://www.bilibili.com/video/BV1254y1i7Ap "悬停显示")  
+* [刘超·技术人究竟该如何保持快速学习的能力？](https://www.bilibili.com/video/BV1Fc411h7G3 "悬停显示")  
+* [闫令琪·GAMES101-现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744 "悬停显示")  
+* [高琪·裴新【尚学堂】Java300集](https://www.bilibili.com/video/BV1X7411F744 "悬停显示")  
+* [刘铁锰·C#语言入门详解](https://www.bilibili.com/video/BV1X7411F744 "悬停显示")  
