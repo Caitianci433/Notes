@@ -12,6 +12,8 @@
 * [网络基础：TCP协议-如何保证传输可靠性](https://blog.csdn.net/liuchenxia8/article/details/80428157 "悬停显示")  
 
 操作系统  
+* [如何理解互斥锁、条件锁、读写锁以及自旋锁](https://www.zhihu.com/question/66733477/answer/1267625567 "悬停显示") 
+
 
 CLR语言设计思想
 * [浅谈 .NET 中的对象引用、非托管指针和托管指针](https://www.cnblogs.com/blurhkh/p/10357576.html "悬停显示")  
