@@ -16,7 +16,7 @@
 * [如何理解互斥锁、条件锁、读写锁以及自旋锁](https://www.zhihu.com/question/66733477/answer/1267625567 "悬停显示") 
 
 
-CLR语言设计思想
+托管语言设计思想
 * [浅谈 .NET 中的对象引用、非托管指针和托管指针](https://www.cnblogs.com/blurhkh/p/10357576.html "悬停显示")  
 * [.net 进阶](https://www.bilibili.com/video/BV1zX4y1N7SQ "悬停显示") 
 * [Learning Hard C#](https://www.kancloud.cn/wizardforcel/learning-hard-csharp/111492 "悬停显示") 
