@@ -35,6 +35,8 @@
 ---
 * [刘超 技术人，千万别把 1 年经验用 10 年](https://www.bilibili.com/video/BV1254y1i7Ap "悬停显示")  
 * [刘超 技术人究竟该如何保持快速学习的能力？](https://www.bilibili.com/video/BV1Fc411h7G3 "悬停显示")  
+* [刘超 趣谈网络协议](https://time.geekbang.org/column/intro/100007101 "悬停显示")  
+* [刘超 趣谈Linux操作系统](https://time.geekbang.org/column/intro/100024701 "悬停显示")  
 * [闫令琪 GAMES101-现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744 "悬停显示")  
 * [高琪·裴新【尚学堂】Java300集](https://www.bilibili.com/video/BV1X7411F744 "悬停显示")  
 * [刘铁锰 C#语言入门详解](https://www.bilibili.com/video/BV1X7411F744 "悬停显示")  
