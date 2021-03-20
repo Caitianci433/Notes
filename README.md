@@ -39,5 +39,5 @@
 * [刘超 趣谈Linux操作系统](https://time.geekbang.org/column/intro/100024701 "悬停显示")  
 * [闫令琪 GAMES101-现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744 "悬停显示")  
 * [闫令琪 GAMES202-高质量实时渲染](https://www.bilibili.com/video/BV1YK4y1T7yY "悬停显示")  
-* [高琪·裴新【尚学堂】Java300集](https://www.bilibili.com/video/BV1X7411F744 "悬停显示")  
+* [高琪·裴新【尚学堂】Java300集](https://www.bilibili.com/video/BV1oy4y1H7R6?from=search&seid=9257805133152570729 "悬停显示")  
 * [刘铁锰 C#语言入门详解](https://www.bilibili.com/video/BV1wx411K7rb "悬停显示")  
