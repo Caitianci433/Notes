@@ -1,4 +1,4 @@
-'''
+```
 class Program
     {
         // 定义闭包委托
@@ -28,4 +28,4 @@ class Program
             return closuredelegate;
         }
 }
-'''
+```
