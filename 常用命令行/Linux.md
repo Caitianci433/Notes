@@ -1,2 +1,2 @@
 
-![Linux常用命令行](../image/Linux常用命令行.jpg "")
+![Linux常用命令行](./image/Linux常用命令行.jpg "")
