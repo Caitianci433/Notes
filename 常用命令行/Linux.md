@@ -1,6 +1,6 @@
 # Linux常用命令行
 ---
-![Linux常用命令行](./image/Linux常用命令行.jpg "")
+![Linux常用命令行](../image/Linux常用命令行.jpg "")
 ---
 ### 常用指令
 |指令|用途|
