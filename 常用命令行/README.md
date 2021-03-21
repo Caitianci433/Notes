@@ -3,3 +3,4 @@
 ```
 - Linux_CentOS
 - Git
+- SQL语句
