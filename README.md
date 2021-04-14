@@ -20,6 +20,8 @@
 * [浅谈 .NET 中的对象引用、非托管指针和托管指针](https://www.cnblogs.com/blurhkh/p/10357576.html "悬停显示")  
 * [.net 进阶](https://www.bilibili.com/video/BV1zX4y1N7SQ "悬停显示") 
 * [Learning Hard C#](https://www.kancloud.cn/wizardforcel/learning-hard-csharp/111492 "悬停显示") 
+* [C#之动态代理的实现](https://blog.csdn.net/weixin_39567973/article/details/104611436 "悬停显示") 
+* [C#之AOP的实现](https://blog.csdn.net/weixin_39567973/article/details/104654348 "悬停显示") 
 ---
 个人修养  
 ---
