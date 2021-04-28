@@ -2,8 +2,9 @@
 ---
 基本功  
 ---
-数据结构与算法
+数据库
 * [数据库SQL调优的几种方式](https://blog.csdn.net/u010520146/article/details/81161762 "悬停显示")
+* [sql server 索引总结](https://www.cnblogs.com/firstdream/p/8065496.html "悬停显示")
 
 数据结构与算法
 * [B树与B+树](https://www.cnblogs.com/vincently/p/4526560.html "悬停显示")
