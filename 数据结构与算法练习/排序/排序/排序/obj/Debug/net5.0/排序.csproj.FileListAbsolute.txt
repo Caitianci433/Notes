@@ -1,0 +1,16 @@
+D:\Repositories\数据结构\排序\排序\排序\bin\Debug\net5.0\排序.exe
+D:\Repositories\数据结构\排序\排序\排序\bin\Debug\net5.0\排序.deps.json
+D:\Repositories\数据结构\排序\排序\排序\bin\Debug\net5.0\排序.runtimeconfig.json
+D:\Repositories\数据结构\排序\排序\排序\bin\Debug\net5.0\排序.runtimeconfig.dev.json
+D:\Repositories\数据结构\排序\排序\排序\bin\Debug\net5.0\排序.dll
+D:\Repositories\数据结构\排序\排序\排序\bin\Debug\net5.0\ref\排序.dll
+D:\Repositories\数据结构\排序\排序\排序\bin\Debug\net5.0\排序.pdb
+D:\Repositories\数据结构\排序\排序\排序\obj\Debug\net5.0\排序.csprojAssemblyReference.cache
+D:\Repositories\数据结构\排序\排序\排序\obj\Debug\net5.0\排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\数据结构\排序\排序\排序\obj\Debug\net5.0\排序.AssemblyInfoInputs.cache
+D:\Repositories\数据结构\排序\排序\排序\obj\Debug\net5.0\排序.AssemblyInfo.cs
+D:\Repositories\数据结构\排序\排序\排序\obj\Debug\net5.0\排序.csproj.CoreCompileInputs.cache
+D:\Repositories\数据结构\排序\排序\排序\obj\Debug\net5.0\排序.dll
+D:\Repositories\数据结构\排序\排序\排序\obj\Debug\net5.0\ref\排序.dll
+D:\Repositories\数据结构\排序\排序\排序\obj\Debug\net5.0\排序.pdb
+D:\Repositories\数据结构\排序\排序\排序\obj\Debug\net5.0\排序.genruntimeconfig.cache
