@@ -6,16 +6,20 @@ namespace 排序
     {
         static void Main(string[] args)
         {
-            var data = GetUnSortData(10);
+            var data = GetUnSortData(1000000);
             Console.WriteLine("-----排序前-----");
-            Console.WriteLine(string.Join(',', data));
+            //Console.WriteLine(string.Join(',', data));
             //BubbleSort(data);
-            //QuicSort(data);
+            var start = DateTime.Now;
+            QuicSort(data);
+            var end = DateTime.Now;
             //SelectionSort(data);
             //InsertSort(data);
-            ShellSort(data);
+            //ShellSort(data);
             Console.WriteLine("-----排序后-----");
-            Console.WriteLine(string.Join(',', data));
+            //Console.WriteLine(string.Join(',', data));
+
+            Console.WriteLine($"用时：{(end-start)}");
         }
 
         #region Swap
