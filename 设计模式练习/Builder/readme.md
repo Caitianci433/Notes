@@ -1,0 +1,1 @@
+- 建造者模式常用于配置及初始化对象，经典场景 .Net Core的Configuration
