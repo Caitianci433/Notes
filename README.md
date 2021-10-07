@@ -15,6 +15,7 @@
 * [TCP包的seq和ack号计算方法](https://blog.csdn.net/huaishu/article/details/93739446 "悬停显示")  
 * [TCP如何保证传输可靠性](https://blog.csdn.net/cbjcry/article/details/84925028 "悬停显示")  
 * [网络基础：TCP协议-如何保证传输可靠性](https://blog.csdn.net/liuchenxia8/article/details/80428157 "悬停显示")  
+* [深入理解select、poll和epoll及区别](https://blog.csdn.net/wteruiycbqqvwt/article/details/90299610 "悬停显示")  
 
 操作系统  
 * [如何理解互斥锁、条件锁、读写锁以及自旋锁](https://www.zhihu.com/question/66733477/answer/1267625567 "悬停显示") 
