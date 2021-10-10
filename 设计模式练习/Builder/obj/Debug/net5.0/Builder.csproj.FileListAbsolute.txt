@@ -1,0 +1,16 @@
+D:\Repositories\Store\设计模式练习\Builder\bin\Debug\net5.0\Builder.exe
+D:\Repositories\Store\设计模式练习\Builder\bin\Debug\net5.0\Builder.deps.json
+D:\Repositories\Store\设计模式练习\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+D:\Repositories\Store\设计模式练习\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+D:\Repositories\Store\设计模式练习\Builder\bin\Debug\net5.0\Builder.dll
+D:\Repositories\Store\设计模式练习\Builder\bin\Debug\net5.0\ref\Builder.dll
+D:\Repositories\Store\设计模式练习\Builder\bin\Debug\net5.0\Builder.pdb
+D:\Repositories\Store\设计模式练习\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+D:\Repositories\Store\设计模式练习\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Store\设计模式练习\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+D:\Repositories\Store\设计模式练习\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+D:\Repositories\Store\设计模式练习\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+D:\Repositories\Store\设计模式练习\Builder\obj\Debug\net5.0\Builder.dll
+D:\Repositories\Store\设计模式练习\Builder\obj\Debug\net5.0\ref\Builder.dll
+D:\Repositories\Store\设计模式练习\Builder\obj\Debug\net5.0\Builder.pdb
+D:\Repositories\Store\设计模式练习\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
